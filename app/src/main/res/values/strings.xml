@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleView_08_avriel</string>
+    <string name="makanan_name">Makanan Name</string>
+    <string name="description">Description</string>
+</resources>
